@@ -6,6 +6,7 @@
 
 int main() {
     printf("Batalha Naval!\n");
+    printf("Novo Commit\n");
 }
     // Nível Novato - Posicionamento dos Navios
     // Sugestão: Declare uma matriz bidimensional para representar o tabuleiro (Ex: int tabuleiro[5][5];).
